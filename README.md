@@ -8,7 +8,7 @@
 </p>
 
 [What-is-SQuill?](#what-is-SQuill?) •
-[Quickstart](#quickstart) •
+[Installation](#Installation) •
 [Examples](#examples) •
 
 </div>
@@ -16,7 +16,7 @@
 ## Navigation
 
 - [What-is-SQuill](#what-is-SQuill?)
-- [Quickstart](#quickstart)
+- [Installation](#Installation)
 - [Examples](#examples)
 
 <br />
@@ -34,9 +34,7 @@ In the current situation what we called AI is just a powerful version of token p
 
 Squill was created to automate the article writing process.
 
-## 🚀 Quickstart
-
-To use `SQuill` in the easitest way we are building a webapp for it.
+## 🚀 Installation
 
 ### Required Python Version
 Ensure you have at least python3.10 installed on your `linux` operating system.
@@ -70,6 +68,6 @@ article_writer --help
 
 #### Example ussage
 
-<img width="1173" alt="SQuill-example_screenshot" src="<image source>">
+<img width="1173" alt="SQuill-example_screenshot" src="<image location>">
 
-# Credit
+## Credit
