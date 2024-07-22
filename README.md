@@ -66,8 +66,12 @@ article_writer --help
 > [!NOTE]
 > If you're encountering any kind of error in that case please same that error in SQuill's issues page.
 
-#### Example ussage
+## Example ussage
 
-<img width="1173" alt="SQuill-example_screenshot" src="<image location>">
+#### Input:
+        <img width="1173" alt="SQuill-input_screenshot" src="https://github.com/cyberytti/SQuill/blob/main/Screenshot_2024-07-22-21-11-35-60.jpg">
+
+#### Output:
+        <img width="1173" alt="SQuill-output_screenshot" src="https://github.com/cyberytti/SQuill/blob/main/IMG_20240722_221945.jpg">
 
 ## Credit
