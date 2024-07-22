@@ -7,7 +7,7 @@
 <h4><code>SQuill</code> is an open-source tool for genarating Professional articles using AI(LLMs).</h4>
 </p>
 
-[What is SQuill?](#what is SQuill?) •
+[What_is_SQuill](#what_is_SQuill) •
 [Quickstart](#quickstart) •
 [Examples](#examples) •
 
@@ -15,7 +15,7 @@
 
 ## Navigation
 
-- [What is SQuill?](#what is SQuill?)
+- [What is SQuill](#what is SQuill)
 - [Quickstart](#quickstart)
 - [Examples](#examples)
 
