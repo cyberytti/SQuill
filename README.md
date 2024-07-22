@@ -46,7 +46,7 @@ Ensure you have at least python3.10 installed on your `linux` operating system.
 git clone <>
 ```
 
-2. Downloading the requirments.
+2. Runing the installer file.
 
 ```bash
 # Downloading the requirments
