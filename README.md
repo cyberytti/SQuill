@@ -70,6 +70,6 @@ article_writer --help
 
 #### Example ussage
 
-<img width="1173" alt="fabric-patterns-screenshot" src="https://github.com/danielmiessler/fabric/assets/50654/9186a044-652b-4673-89f7-71cf066f32d8">
+<img width="1173" alt="fabric-patterns-screenshot" src="<image source>">
 
 # Credit
