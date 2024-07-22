@@ -18,8 +18,6 @@
 
 - [What and Why](#what-and-why)
 - [Quickstart](#quickstart)
-  - [Setting up the SQuill commands](#setting-up-the-SQuill-commands)
-  - [Using the SQuill client](#using-the-SQuill-client)
 - [Examples](#examples)
 
 <br />
@@ -74,3 +72,5 @@ article_writer --help
 #### Example ussage
 
 <img width="1173" alt="fabric-patterns-screenshot" src="<image source>">
+
+# Credit
