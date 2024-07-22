@@ -70,6 +70,6 @@ article_writer --help
 
 #### Example ussage
 
-<img width="1173" alt="fabric-patterns-screenshot" src="<image source>">
+<img width="1173" alt="SQuill-example_screenshot" src="<image source>">
 
 # Credit
