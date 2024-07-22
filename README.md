@@ -24,14 +24,11 @@
 > [!NOTE]
 > july 22, 2024 - This is the version 1 of SQuill. In this version SQuill can generate professional level "text" articles but it can't able to combine pictures with those articles but in the future updates we will add this feature thus the feature SQuill will able to combine multiple pictures, videos, screenshots, references in it's article.!
 
-## What is SQuill?
-
+## What is SQuill?                                                                      
 In the current situation what we called AI is just a powerful version of token prediction model because of this the current AIs(LLMs) and not able to solve very complex resoning or coding questions.
 
-<div align="center">
-<h4>In other words they are not capable of that. But they are expert in generating texts. Because of this, we use LLMs to write professional level articles with the help <em>of</em> SQuill.</h4>
-</div>
-
+<div align="center">                                                                    <h4>In other words they are not capable of that. But they are expert in generating texts. Because of this, we use LLMs to write professional level articles with the help <em>of</em> SQuill.</h4>
+</div>                                                                                  
 Squill was created to automate the article writing process.
 
 ## 🚀 Installation
@@ -75,3 +72,7 @@ article_writer --help
 <img width="1173" alt="SQuill-output_screenshot" src="https://github.com/cyberytti/SQuill/blob/main/IMG_20240722_221945.jpg">
 
 ## Credit
+It is developed by me as a single developer but contributers are always wellcome.
+
+## If you liked it then
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
