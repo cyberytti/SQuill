@@ -15,7 +15,7 @@
 
 ## Navigation
 
-- [What is SQuill](#what is SQuill)
+- [What-is-SQuill](#what is SQuill)
 - [Quickstart](#quickstart)
 - [Examples](#examples)
 
