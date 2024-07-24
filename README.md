@@ -33,10 +33,6 @@ SQuill is an innovative tool that harnesses the power of AI and web search to ge
 - Web search results screenshot 🔍
 - Python code snippet screenshot 💻
 
-## Contribution 🤝
-
-Contributors are welcome! Feel free to fork and contribute to the project 🌈.
-
 ## License 📜
 
 MIT License
@@ -44,3 +40,7 @@ MIT License
 ## Contact 📱
 
 Follow me on Instagram @true_living for updates and support 📸.
+
+## Contribution 🤝
+
+Contributors are welcome! Feel free to fork and contribute to the project 🌈.
