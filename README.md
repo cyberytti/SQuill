@@ -1,5 +1,7 @@
-## *SQuill 📝*
+<div align="center">
 
+
+# `SQuill`
 
 ## *"Crafting Masterpieces with AI" 💡*
 
