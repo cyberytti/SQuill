@@ -1,4 +1,4 @@
-##SQuill 📝*
+## *SQuill 📝*
 
 
 ##"Crafting Masterpieces with AI" 💡*
