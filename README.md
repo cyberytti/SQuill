@@ -4,6 +4,7 @@
 # `SQuill`
 
 </div>
+
 ## *"Crafting Masterpieces with AI" 💡*
 
 SQuill is an innovative tool that harnesses the power of AI and web search to generate exceptionally well-written articles on specific topics in mere seconds ⏱️.
