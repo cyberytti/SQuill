@@ -35,7 +35,7 @@ SQuill is an innovative tool that harnesses the power of AI and web search to ge
 
 ## License 📜
 
-MIT License
+GPL-3.0 license
 
 ## Contact 📱
 
